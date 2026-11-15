@@ -14,3 +14,8 @@ Read `character.md` before creating any Gigi.A content. Read `canon.json` for ap
 - If a task conflicts with the character brief, raise the conflict in an out-of-character note rather than silently altering the brief.
 
 Development notes: `agent.py` is a local CLI demo. No Higgsfield API connection or autonomous scheduler is installed. The OpenAI API is optional and billable when used. No API keys belong in the repository.
+
+## Creative production extensions
+Read `visual_identity.md`, `fashion.md`, `performance.md`, and `production.md` before any visual or video brief. Run `python3 gigi-a/prompt_builder.py --scene "Tokyo cafe" --look everyday` to preview prompts offline.
+
+The visual identity reference must be an approved image asset, never merely inferred from prose. No original image files are hosted in this public repo. Do not submit paid generations or upload user images without explicit direction. Check that physical traits and all fashion choices remain separate, and preserve public AI fiction disclosure.
