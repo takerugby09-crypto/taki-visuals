@@ -1,4 +1,4 @@
-# TAKI CREATIVE BRAIN — v0.1
+# TAKI CREATIVE BRAIN — v0.3
 
 AI映像制作のための、ジャンルを固定しない「制作知識と実験記録」の土台。
 
@@ -33,5 +33,11 @@ Codexで検索機能、タグ付け、制作ダッシュボード、プロンプ
 - `ideas/idea-template.md`：思いつきの記録
 - `projects/project-template.md`：制作工程と改善
 - `analytics/post-template.md`：投稿後の検証
+- `lessons/`：Academy画面録画5本の要点・実践ワーク
+- `sources/`：その他の解説動画、英語文字起こし、参考作品の確認状況と学習ノート
+- `integrations/higgsfield-codex.md`：Codex→Higgsfieldの制作指示の受け渡し（直接自動実行は未実装）
 
 既存のポートフォリオ（ルートのHTML/CSS/JS）は変更しない。
+
+## 参考動画の扱い
+`sources/README.md` を開き、A（文字起こし全文）/B（過去の要点）/C（リンクのみ）/D（画面録画の要点）の確認レベルを区別する。既存ノートはAIの学習用索引であり、元動画や全文書き起こしがGitHubに保存されているわけではない。
