@@ -19,7 +19,14 @@
 2. `creative-brain/creative-principles.md`
 3. `creative-brain/guides/higgsfield-workflow.md`
 4. `creative-brain/lessons/README.md`
-5. `creative-brain/integrations/higgsfield-codex.md`
+5. `creative-brain/sources/README.md`（過去の参考動画・文字起こし台帳）
+6. `creative-brain/sources/commercial-nanobanana-kling.md`（詳細なCM制作事例）
+7. `creative-brain/integrations/higgsfield-codex.md`
+
+## 参考資料の確度
+- `creative-brain/sources/README.md` の A/B/C/D を確認してから主張する。
+- A=ユーザーからの全文文字起こし、B=過去会話で要点のみ、C=リンクのみ、D=画面中心の要約。B/C/Dを全文確認済みとして扱わない。
+- 参考動画から得た技法と、新たに提案する応用アイデアを区別する。
 
 ## Higgsfieldとの受け渡し
 - CodexからHiggsfieldへ**直接API連携済みだと主張しない**。
