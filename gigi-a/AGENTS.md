@@ -19,3 +19,6 @@ Development notes: `agent.py` is a local CLI demo. No Higgsfield API connection 
 Read `visual_identity.md`, `fashion.md`, `performance.md`, and `production.md` before any visual or video brief. Run `python3 gigi-a/prompt_builder.py --scene "Tokyo cafe" --look everyday` to preview prompts offline.
 
 The visual identity reference must be an approved image asset, never merely inferred from prose. No original image files are hosted in this public repo. Do not submit paid generations or upload user images without explicit direction. Check that physical traits and all fashion choices remain separate, and preserve public AI fiction disclosure.
+
+## Voice and spoken character
+Read `voice.md` whenever scripting, synthesizing or directing Gigi.A's speech. Its timbre/prosody recommendations are provisional, not verified measurements of the user-supplied audio. Keep an original, licensed synthetic voice, not an unauthorized clone of any performer. Do not publish, generate paid audio, or persist voice keys without producer approval.
